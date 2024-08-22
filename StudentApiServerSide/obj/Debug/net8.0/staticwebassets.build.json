@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9yPzRHN1n/7L8LG5luRVxSqivJt06pu9R1DZ3WzKQGc=",
+  "Source": "StudentApiServerSide",
+  "BasePath": "_content/StudentApiServerSide",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
